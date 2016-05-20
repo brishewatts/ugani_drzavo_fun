@@ -1,0 +1,13 @@
+seznam = {"Slovenija": "Koper",
+          "Italija": "Rim",
+          "Francija": "Pariz",
+          "Madzarska": "Budimpesta",
+          "Nemcija": "Berlin",
+          "Hrvaska": "Zagreb",
+          "Bosna in Hercegovina": "Sarajevo",
+          "Avstrija": "Dunaj",
+          "Belgija": "Bruselj",
+          "Spanija": "Madrid",
+          "Portugal": "Lizbona",
+          "Nizozemska": "Amsterdam",
+          "Rusija": "Moskva"}
